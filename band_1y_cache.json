@@ -1,0 +1,12 @@
+{
+    "source": "calc_import",
+    "updated": "2026-07-26",
+    "last_success": "2026-08-01T19:49:12",
+    "values": {
+        "Dax": 1.344,
+        "EURO STOXX 50": 1.307,
+        "S&P 500": 1.043,
+        "Dow Jones": 1.064,
+        "Nasdaq 100": 1.46
+    }
+}
