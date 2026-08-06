@@ -1,0 +1,688 @@
+[
+  {
+    "datum": "2026-01-28",
+    "typ": "FED",
+    "text": "FED-Zinsentscheid",
+    "index": "ALL",
+    "zeit": "20:00"
+  },
+  {
+    "datum": "2026-03-18",
+    "typ": "FED",
+    "text": "FED-Zinsentscheid",
+    "index": "ALL",
+    "zeit": "20:00"
+  },
+  {
+    "datum": "2026-04-29",
+    "typ": "FED",
+    "text": "FED-Zinsentscheid",
+    "index": "ALL",
+    "zeit": "20:00"
+  },
+  {
+    "datum": "2026-06-17",
+    "typ": "FED",
+    "text": "FED-Zinsentscheid",
+    "index": "ALL",
+    "zeit": "20:00"
+  },
+  {
+    "datum": "2026-07-29",
+    "typ": "FED",
+    "text": "FED-Zinsentscheid",
+    "index": "ALL",
+    "zeit": "20:00"
+  },
+  {
+    "datum": "2026-09-16",
+    "typ": "FED",
+    "text": "FED-Zinsentscheid",
+    "index": "ALL",
+    "zeit": "20:00"
+  },
+  {
+    "datum": "2026-10-28",
+    "typ": "FED",
+    "text": "FED-Zinsentscheid",
+    "index": "ALL",
+    "zeit": "20:00"
+  },
+  {
+    "datum": "2026-12-09",
+    "typ": "FED",
+    "text": "FED-Zinsentscheid",
+    "index": "ALL",
+    "zeit": "20:00"
+  },
+  {
+    "datum": "2026-02-05",
+    "typ": "EZB",
+    "text": "EZB-Zinsentscheid",
+    "index": "ALL",
+    "zeit": "14:15"
+  },
+  {
+    "datum": "2026-03-19",
+    "typ": "EZB",
+    "text": "EZB-Zinsentscheid",
+    "index": "ALL",
+    "zeit": "14:15"
+  },
+  {
+    "datum": "2026-04-30",
+    "typ": "EZB",
+    "text": "EZB-Zinsentscheid",
+    "index": "ALL",
+    "zeit": "14:15"
+  },
+  {
+    "datum": "2026-06-11",
+    "typ": "EZB",
+    "text": "EZB-Zinsentscheid",
+    "index": "ALL",
+    "zeit": "14:15"
+  },
+  {
+    "datum": "2026-07-23",
+    "typ": "EZB",
+    "text": "EZB-Zinsentscheid",
+    "index": "ALL",
+    "zeit": "14:15"
+  },
+  {
+    "datum": "2026-09-10",
+    "typ": "EZB",
+    "text": "EZB-Zinsentscheid",
+    "index": "ALL",
+    "zeit": "14:15"
+  },
+  {
+    "datum": "2026-10-29",
+    "typ": "EZB",
+    "text": "EZB-Zinsentscheid",
+    "index": "ALL",
+    "zeit": "14:15"
+  },
+  {
+    "datum": "2026-12-17",
+    "typ": "EZB",
+    "text": "EZB-Zinsentscheid",
+    "index": "ALL",
+    "zeit": "14:15"
+  },
+  {
+    "datum": "2026-01-23",
+    "typ": "BoJ",
+    "text": "BoJ Geldpolitik (Sitzung/Entscheid)",
+    "index": "ALL",
+    "zeit": null
+  },
+  {
+    "datum": "2026-03-19",
+    "typ": "BoJ",
+    "text": "BoJ Geldpolitik (Sitzung/Entscheid)",
+    "index": "ALL",
+    "zeit": null
+  },
+  {
+    "datum": "2026-04-28",
+    "typ": "BoJ",
+    "text": "BoJ Geldpolitik (Sitzung/Entscheid)",
+    "index": "ALL",
+    "zeit": null
+  },
+  {
+    "datum": "2026-03-20",
+    "typ": "Hexensabbat",
+    "text": "Großer Verfallstag (Hexensabbat)",
+    "index": "ALL",
+    "zeit": null
+  },
+  {
+    "datum": "2026-06-19",
+    "typ": "Hexensabbat",
+    "text": "Großer Verfallstag (Hexensabbat)",
+    "index": "ALL",
+    "zeit": null
+  },
+  {
+    "datum": "2026-09-18",
+    "typ": "Hexensabbat",
+    "text": "Großer Verfallstag (Hexensabbat)",
+    "index": "ALL",
+    "zeit": null
+  },
+  {
+    "datum": "2026-12-18",
+    "typ": "Hexensabbat",
+    "text": "Großer Verfallstag (Hexensabbat)",
+    "index": "ALL",
+    "zeit": null
+  },
+  {
+    "datum": "2026-03-23",
+    "typ": "Rebalancing",
+    "text": "DAX/MDAX-Rebalancing; Kurse reagieren kurzfristig stark, weil Indexfonds und ETFs ihre Bestände anpassen müssen",
+    "index": "DAX",
+    "zeit": null
+  },
+  {
+    "datum": "2026-06-22",
+    "typ": "Rebalancing",
+    "text": "DAX/MDAX-Rebalancing; Kurse reagieren kurzfristig stark, weil Indexfonds und ETFs ihre Bestände anpassen müssen",
+    "index": "DAX",
+    "zeit": null
+  },
+  {
+    "datum": "2026-09-21",
+    "typ": "Rebalancing",
+    "text": "DAX/MDAX-Rebalancing; Kurse reagieren kurzfristig stark, weil Indexfonds und ETFs ihre Bestände anpassen müssen",
+    "index": "DAX",
+    "zeit": null
+  },
+  {
+    "datum": "2026-12-21",
+    "typ": "Rebalancing",
+    "text": "DAX/MDAX-Rebalancing; Kurse reagieren kurzfristig stark, weil Indexfonds und ETFs ihre Bestände anpassen müssen",
+    "index": "DAX",
+    "zeit": null
+  },
+  {
+    "datum": "2026-01-02",
+    "typ": "US Jobs",
+    "text": "US Arbeitsmarktbericht (Nonfarm Payrolls)",
+    "index": "ALL",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-02-06",
+    "typ": "US Jobs",
+    "text": "US Arbeitsmarktbericht (Nonfarm Payrolls)",
+    "index": "ALL",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-03-06",
+    "typ": "US Jobs",
+    "text": "US Arbeitsmarktbericht (Nonfarm Payrolls)",
+    "index": "ALL",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-04-02",
+    "typ": "US Jobs",
+    "text": "US Arbeitsmarktbericht (Nonfarm Payrolls)",
+    "index": "ALL",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-05-01",
+    "typ": "US Jobs",
+    "text": "US Arbeitsmarktbericht (Nonfarm Payrolls)",
+    "index": "ALL",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-06-05",
+    "typ": "US Jobs",
+    "text": "US Arbeitsmarktbericht (Nonfarm Payrolls)",
+    "index": "ALL",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-07-02",
+    "typ": "US Jobs",
+    "text": "US Arbeitsmarktbericht (Nonfarm Payrolls)",
+    "index": "ALL",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-08-07",
+    "typ": "US Jobs",
+    "text": "US Arbeitsmarktbericht (Nonfarm Payrolls)",
+    "index": "ALL",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-09-04",
+    "typ": "US Jobs",
+    "text": "US Arbeitsmarktbericht (Nonfarm Payrolls)",
+    "index": "ALL",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-10-02",
+    "typ": "US Jobs",
+    "text": "US Arbeitsmarktbericht (Nonfarm Payrolls)",
+    "index": "ALL",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-11-06",
+    "typ": "US Jobs",
+    "text": "US Arbeitsmarktbericht (Nonfarm Payrolls)",
+    "index": "ALL",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-12-04",
+    "typ": "US Jobs",
+    "text": "US Arbeitsmarktbericht (Nonfarm Payrolls)",
+    "index": "ALL",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-07-01",
+    "typ": "EU_CPI",
+    "text": "Verbraucherpreisindex Eurozone (Flash)",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-07-17",
+    "typ": "EU_CPI",
+    "text": "Verbraucherpreisindex Eurozone (final)",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-07-31",
+    "typ": "EU_CPI",
+    "text": "Verbraucherpreisindex Eurozone (Flash)",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-08-19",
+    "typ": "EU_CPI",
+    "text": "Verbraucherpreisindex Eurozone (final)",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-09-01",
+    "typ": "EU_CPI",
+    "text": "Verbraucherpreisindex Eurozone (Flash)",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-09-17",
+    "typ": "EU_CPI",
+    "text": "Verbraucherpreisindex Eurozone (final)",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-10-02",
+    "typ": "EU_CPI",
+    "text": "Verbraucherpreisindex Eurozone (Flash)",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-10-16",
+    "typ": "EU_CPI",
+    "text": "Verbraucherpreisindex Eurozone (final)",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-11-04",
+    "typ": "EU_CPI",
+    "text": "Verbraucherpreisindex Eurozone (Flash)",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-11-18",
+    "typ": "EU_CPI",
+    "text": "Verbraucherpreisindex Eurozone (final)",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-12-01",
+    "typ": "EU_CPI",
+    "text": "Verbraucherpreisindex Eurozone (Flash)",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-12-17",
+    "typ": "EU_CPI",
+    "text": "Verbraucherpreisindex Eurozone (final)",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-07-06",
+    "typ": "EU_PPI",
+    "text": "Erzeugerpreisindex Eurozone",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-08-05",
+    "typ": "EU_PPI",
+    "text": "Erzeugerpreisindex Eurozone",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-09-03",
+    "typ": "EU_PPI",
+    "text": "Erzeugerpreisindex Eurozone",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-10-05",
+    "typ": "EU_PPI",
+    "text": "Erzeugerpreisindex Eurozone",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-11-05",
+    "typ": "EU_PPI",
+    "text": "Erzeugerpreisindex Eurozone",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-12-03",
+    "typ": "EU_PPI",
+    "text": "Erzeugerpreisindex Eurozone",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-07-30",
+    "typ": "EU_GDP",
+    "text": "Bruttoinlandsprodukt Eurozone (Preliminary Flash)",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-08-14",
+    "typ": "EU_GDP",
+    "text": "Bruttoinlandsprodukt Eurozone (Flash)",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-09-07",
+    "typ": "EU_GDP",
+    "text": "Bruttoinlandsprodukt Eurozone (Hauptaggregate)",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-10-30",
+    "typ": "EU_GDP",
+    "text": "Bruttoinlandsprodukt Eurozone (Preliminary Flash)",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-11-13",
+    "typ": "EU_GDP",
+    "text": "Bruttoinlandsprodukt Eurozone (Flash)",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-12-07",
+    "typ": "EU_GDP",
+    "text": "Bruttoinlandsprodukt Eurozone (Hauptaggregate)",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-07-15",
+    "typ": "EU_IP",
+    "text": "Industrieproduktion Eurozone",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-08-14",
+    "typ": "EU_IP",
+    "text": "Industrieproduktion Eurozone",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-09-15",
+    "typ": "EU_IP",
+    "text": "Industrieproduktion Eurozone",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-10-15",
+    "typ": "EU_IP",
+    "text": "Industrieproduktion Eurozone",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-11-13",
+    "typ": "EU_IP",
+    "text": "Industrieproduktion Eurozone",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-12-15",
+    "typ": "EU_IP",
+    "text": "Industrieproduktion Eurozone",
+    "index": "EU",
+    "zeit": "11:00"
+  },
+  {
+    "datum": "2026-12-24",
+    "typ": "Holiday",
+    "text": "Xetra Börsenfeiertag",
+    "index": "DAX",
+    "zeit": null
+  },
+  {
+    "datum": "2026-12-25",
+    "typ": "Holiday",
+    "text": "Xetra Börsenfeiertag",
+    "index": "DAX",
+    "zeit": null
+  },
+  {
+    "datum": "2026-12-26",
+    "typ": "Holiday",
+    "text": "Xetra Börsenfeiertag",
+    "index": "DAX",
+    "zeit": null
+  },
+  {
+    "datum": "2026-12-31",
+    "typ": "Holiday",
+    "text": "Xetra Börsenfeiertag",
+    "index": "DAX",
+    "zeit": null
+  },
+  {
+    "datum": "2026-08-26",
+    "typ": "Earnings",
+    "text": "Earnings: Nvidia (NVDA)",
+    "index": "ALL",
+    "zeit": "22:00"
+  },
+  {
+    "datum": "2026-08-12",
+    "typ": "CPI",
+    "text": "US Verbraucherpreise (CPI)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-09-11",
+    "typ": "CPI",
+    "text": "US Verbraucherpreise (CPI)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-10-14",
+    "typ": "CPI",
+    "text": "US Verbraucherpreise (CPI)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-11-10",
+    "typ": "CPI",
+    "text": "US Verbraucherpreise (CPI)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-12-10",
+    "typ": "CPI",
+    "text": "US Verbraucherpreise (CPI)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-08-26",
+    "typ": "PCE",
+    "text": "US PCE (Personal Income & Outlays)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-09-30",
+    "typ": "PCE",
+    "text": "US PCE (Personal Income & Outlays)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-10-29",
+    "typ": "PCE",
+    "text": "US PCE (Personal Income & Outlays)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-11-25",
+    "typ": "PCE",
+    "text": "US PCE (Personal Income & Outlays)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-12-23",
+    "typ": "PCE",
+    "text": "US PCE (Personal Income & Outlays)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-08-13",
+    "typ": "PPI",
+    "text": "US Erzeugerpreise (PPI)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-09-10",
+    "typ": "PPI",
+    "text": "US Erzeugerpreise (PPI)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-10-15",
+    "typ": "PPI",
+    "text": "US Erzeugerpreise (PPI)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-11-13",
+    "typ": "PPI",
+    "text": "US Erzeugerpreise (PPI)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-12-15",
+    "typ": "PPI",
+    "text": "US Erzeugerpreise (PPI)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2027-01-14",
+    "typ": "PPI",
+    "text": "US Erzeugerpreise (PPI)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2027-02-11",
+    "typ": "PPI",
+    "text": "US Erzeugerpreise (PPI)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2027-03-11",
+    "typ": "PPI",
+    "text": "US Erzeugerpreise (PPI)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2027-04-13",
+    "typ": "PPI",
+    "text": "US Erzeugerpreise (PPI)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2027-05-13",
+    "typ": "PPI",
+    "text": "US Erzeugerpreise (PPI)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2027-06-15",
+    "typ": "PPI",
+    "text": "US Erzeugerpreise (PPI)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2027-07-14",
+    "typ": "PPI",
+    "text": "US Erzeugerpreise (PPI)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2027-08-12",
+    "typ": "PPI",
+    "text": "US Erzeugerpreise (PPI)",
+    "index": "SP500",
+    "zeit": "14:30"
+  },
+  {
+    "datum": "2026-10-01",
+    "typ": "US Shutdown",
+    "text": "US Fiskaljahr beginnt – Shutdown-Risiko ohne Bewilligungen/CR",
+    "index": "ALL",
+    "zeit": null
+  }
+]
