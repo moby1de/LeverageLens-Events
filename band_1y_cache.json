@@ -1,0 +1,12 @@
+{
+    "source": "llens_yahoo",
+    "updated": "2026-08-08",
+    "last_success": "2026-08-08T21:14:54",
+    "values": {
+        "Dax": 1.358,
+        "EURO STOXX 50": 1.244,
+        "S&P 500": 1.159,
+        "Dow Jones": 1.123,
+        "Nasdaq 100": 1.774
+    }
+}
