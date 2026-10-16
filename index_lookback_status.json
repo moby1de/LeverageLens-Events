@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "updated": "2026-10-16T15:19:25+02:00",
+  "indices": {
+    "Dax": {
+      "file": "index_lookback_DAX.csv",
+      "last_date": "2026-10-15",
+      "rows": 254,
+      "bytes": 7087,
+      "sha256": "96e52433b95df2a90e567f5e8c8e716ca030951f1ba55446f966d1e04064d5aa",
+      "version": 1
+    },
+    "EURO STOXX 50": {
+      "file": "index_lookback_EUROSTOXX50.csv",
+      "last_date": "2026-10-15",
+      "rows": 251,
+      "bytes": 9237,
+      "sha256": "494b6d5604f15635549d502988d132fcbc8248e2de8fa0f7acda8abd2e5bae6f",
+      "version": 1
+    },
+    "S&P 500": {
+      "file": "index_lookback_SP500.csv",
+      "last_date": "2026-10-15",
+      "rows": 252,
+      "bytes": 7759,
+      "sha256": "97ce05db0f6e372de6fed500c2489266c1c41e0319ee6ac85ecf6ce7bae3d462",
+      "version": 1
+    },
+    "Dow Jones": {
+      "file": "index_lookback_DOW.csv",
+      "last_date": "2026-10-15",
+      "rows": 252,
+      "bytes": 8527,
+      "sha256": "029f1beb60d83d99012d069b221647e12dd420f6b8a23aed1be3ea79a33aa327",
+      "version": 1
+    },
+    "Nasdaq 100": {
+      "file": "index_lookback_NASDAQ100.csv",
+      "last_date": "2026-10-15",
+      "rows": 252,
+      "bytes": 8808,
+      "sha256": "b433a9e6a7f4f7f1769db57159a4f0874d3dbb72f7bb75a7339d9a4dad3235bd",
+      "version": 1
+    }
+  }
+}
