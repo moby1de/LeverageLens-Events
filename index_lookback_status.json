@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-10-21T16:06:51+02:00",
+  "updated": "2026-10-22T02:40:15+02:00",
   "indices": {
     "Dax": {
       "file": "index_lookback_DAX.csv",
-      "last_date": "2026-10-20",
+      "last_date": "2026-10-21",
       "rows": 254,
       "bytes": 7087,
-      "sha256": "38bcdc40e7f036122076c68307bc3b132edc0847c0dcee07ebde402c0a9989fe",
+      "sha256": "08e6645f27fec068888d4b32ed3f89f05b0f61b9fa008122f0304749bc4bf51d",
       "version": 1
     },
     "EURO STOXX 50": {
@@ -20,10 +20,10 @@
     },
     "S&P 500": {
       "file": "index_lookback_SP500.csv",
-      "last_date": "2026-10-20",
-      "rows": 251,
-      "bytes": 7727,
-      "sha256": "85dcfb76c8bdcb0c871a359e6cb045a548ad85195e89d55f5dfae6c6d1572565",
+      "last_date": "2026-10-21",
+      "rows": 252,
+      "bytes": 7758,
+      "sha256": "2427e1de126e9797f36302cdfb35082326af35c08c04c754a641fe490bea1fb9",
       "version": 1
     },
     "Dow Jones": {
