@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-13T07:16:03+01:00",
+  "updated": "2026-11-13T17:38:08+01:00",
   "indices": {
     "Dax": {
       "file": "index_lookback_DAX.csv",
@@ -28,10 +28,10 @@
     },
     "Dow Jones": {
       "file": "index_lookback_DOW.csv",
-      "last_date": "2026-11-06",
-      "rows": 252,
-      "bytes": 8535,
-      "sha256": "bfbc01c64c4b571aebaa7f970d6d49d5bac95041f4f7e1079e2be3d3f12bf1b3",
+      "last_date": "2026-11-12",
+      "rows": 251,
+      "bytes": 8497,
+      "sha256": "9a2add178332530f1fe05a87f1758335cb927eff6c0b6320727f1d86c487b16d",
       "version": 1
     },
     "Nasdaq 100": {
