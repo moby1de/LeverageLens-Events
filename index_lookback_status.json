@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-11-14T23:03:25+01:00",
+  "updated": "2026-11-17T07:20:49+01:00",
   "indices": {
     "Dax": {
       "file": "index_lookback_DAX.csv",
-      "last_date": "2026-11-13",
-      "rows": 254,
-      "bytes": 7083,
-      "sha256": "f9a4a4e0ab3471fee207b53c0c8ba5ad2525fdbadac55131477b489c4358bf5b",
+      "last_date": "2026-11-16",
+      "rows": 253,
+      "bytes": 7055,
+      "sha256": "06a5ee07512a2073d81eb19b5e7ab68c933756315c0676b640236583e06adb31",
       "version": 1
     },
     "EURO STOXX 50": {
@@ -20,18 +20,18 @@
     },
     "S&P 500": {
       "file": "index_lookback_SP500.csv",
-      "last_date": "2026-11-13",
-      "rows": 252,
-      "bytes": 7755,
-      "sha256": "e67fd0bb3ae802382466cbe0a58707a6f244b5a1451d06f71724a0687fe55d80",
+      "last_date": "2026-11-16",
+      "rows": 251,
+      "bytes": 7724,
+      "sha256": "372847c02776e3331013c2306882999a9b89d5fdaa4e62e373446434d7a6f33b",
       "version": 1
     },
     "Dow Jones": {
       "file": "index_lookback_DOW.csv",
-      "last_date": "2026-11-13",
-      "rows": 252,
-      "bytes": 8531,
-      "sha256": "e1a1c0fa1c3891bfd5d0e20343db9354b76789c4d5986836c640b407bbfe75f6",
+      "last_date": "2026-11-16",
+      "rows": 251,
+      "bytes": 8498,
+      "sha256": "e5e16d6bd2b94e33c28bea518460c1f9483855ae88ef7e86d107a1fb54c7c577",
       "version": 1
     },
     "Nasdaq 100": {
