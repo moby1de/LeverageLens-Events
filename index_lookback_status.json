@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-11-18T04:05:48+01:00",
+  "updated": "2026-11-18T04:06:59+01:00",
   "indices": {
     "Dax": {
       "file": "index_lookback_DAX.csv",
-      "last_date": "2026-11-16",
-      "rows": 253,
-      "bytes": 7055,
-      "sha256": "06a5ee07512a2073d81eb19b5e7ab68c933756315c0676b640236583e06adb31",
+      "last_date": "2026-11-17",
+      "rows": 254,
+      "bytes": 7083,
+      "sha256": "c02a537f3b4cb6ed819e14068a44aeb0f6632594aed74ff84395f6660fe5e00a",
       "version": 1
     },
     "EURO STOXX 50": {
