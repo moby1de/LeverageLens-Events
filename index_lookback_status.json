@@ -1,45 +1,45 @@
 {
   "version": 1,
-  "updated": "2026-11-24T17:01:21+01:00",
+  "updated": "2026-11-25T04:55:01+01:00",
   "indices": {
     "Dax": {
       "file": "index_lookback_DAX.csv",
-      "last_date": "2026-11-23",
-      "rows": 253,
-      "bytes": 7055,
-      "sha256": "3e116ada1e6a28a7318dbb27949e07b3eea6629d1f0fd5a5b6bd59d29edce442",
+      "last_date": "2026-11-24",
+      "rows": 254,
+      "bytes": 7083,
+      "sha256": "41dd8be83f7c1714223c2b346604b6d62e780688287536b99dc5b73e6ea8b835",
       "version": 1
     },
     "EURO STOXX 50": {
       "file": "index_lookback_EUROSTOXX50.csv",
-      "last_date": "2026-11-23",
-      "rows": 250,
-      "bytes": 9206,
-      "sha256": "d4f179160ce88f35b45c16f95decaeb774b56ff3e9bebb4a66abfa8bcae34c4b",
+      "last_date": "2026-11-24",
+      "rows": 251,
+      "bytes": 9243,
+      "sha256": "9878dd9e2a2c80f50870fd424871cf9ba56ac1b613949dfa315945089b104266",
       "version": 1
     },
     "S&P 500": {
       "file": "index_lookback_SP500.csv",
-      "last_date": "2026-11-23",
-      "rows": 251,
-      "bytes": 7724,
-      "sha256": "3543b5a4b61442d821a0242e0517636cabb67dcc490b3e0b70cae9c337a6285d",
+      "last_date": "2026-11-24",
+      "rows": 252,
+      "bytes": 7755,
+      "sha256": "00a470284afea546a1175490625dcd7572c0b60af8176dc89981f7b5f96d90ea",
       "version": 1
     },
     "Dow Jones": {
       "file": "index_lookback_DOW.csv",
-      "last_date": "2026-11-23",
-      "rows": 251,
-      "bytes": 8498,
-      "sha256": "d1a599dd89d5cf542598ff482435a28dfd355faf41100b82ecf80e24042efe93",
+      "last_date": "2026-11-24",
+      "rows": 252,
+      "bytes": 8532,
+      "sha256": "31d8631c5aa43869225a48c5d6c5a0c9c0d89b4c3808b6c6d90a113e3634ce9a",
       "version": 1
     },
     "Nasdaq 100": {
       "file": "index_lookback_NASDAQ100.csv",
-      "last_date": "2026-11-23",
-      "rows": 251,
-      "bytes": 8770,
-      "sha256": "03c4839efd776b0875a85e04af7d7b965a73b3a5e1c6037ca9347410cd17fc6c",
+      "last_date": "2026-11-24",
+      "rows": 252,
+      "bytes": 8805,
+      "sha256": "af5fdac1d88f98af3d200ca9527497bf51c06a2325845bea1055a92250360ba5",
       "version": 1
     }
   }
